@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c83c6033-67d9-4569-8c27-ff46b11a1c12" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/_helper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/_helper.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/shared/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655775986827</updated>
       <workItem from="1655775988079" duration="5805000" />
-      <workItem from="1655972300265" duration="5102000" />
+      <workItem from="1655972300265" duration="12953000" />
     </task>
     <task id="LOCAL-00001" summary="设置页面宽高">
       <created>1655779569275</created>
